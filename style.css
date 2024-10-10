@@ -1,0 +1,46 @@
+<style>
+    .background{
+        background-color: aqua;
+    }
+    
+   .h1{
+      background-color: red;
+      text-align: justify;
+      color: white;  
+    }
+    .h2{
+      background-color: #1ff922;
+      text-align: justify;
+      color: white;  
+    }
+td{
+    background-color: silver;
+}
+
+body{
+    background-image: url(image/car4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+li{
+    color: white;
+}
+
+details{
+    color: white;
+}
+
+/**{
+    margin: 0px;
+    padding: 0px;
+}*/
+h1{
+    margin: 0px;
+    padding: 50px;
+}
+
+</style>
+
